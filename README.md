@@ -1,4 +1,4 @@
-# rssfeed
+# Rss Feed
 This project can be used to read rss feed according to specified frequency as JSON
 
 ### Installing
