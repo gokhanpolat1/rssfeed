@@ -23,7 +23,7 @@ gradlew bootRun
 ```
 or
 ```
-./gradlew clean build
+./gradlew bootRun
 ```
 #### Runtime parameters
 * Default rss feed url is [BBC](http://feeds.bbci.co.uk/news/world/rss.xml)
