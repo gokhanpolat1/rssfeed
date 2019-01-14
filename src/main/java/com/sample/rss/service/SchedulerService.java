@@ -18,7 +18,6 @@ public class SchedulerService extends QuartzJobBean {
 
     @Override
     protected void executeInternal(JobExecutionContext context) {
-        System.out.println("HELOO");
         rssFeedConsumerService.consumeRss();
     }
 
